@@ -1,0 +1,15 @@
+<html>
+<head>
+    <title>entering the hole </title>
+</head>
+
+<body>
+    <h1>entering the hole</h1>
+
+    <p>with all the courage you enter the hole to slay the rat. deeper and see the large rat. you fought the rat
+         and to your suprise you kill it.</p>
+    
+    <p>you completed a quest and earned 50 gold. congrats</p>
+    
+</body>
+</html>

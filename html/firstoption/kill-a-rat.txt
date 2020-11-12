@@ -1,0 +1,17 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 3.2//EN">
+
+<html>
+<head>
+    <title>kill a rat</title>
+</head>
+
+<body>
+    <h1>killing a rat</h1>
+
+    <p>the job doesn't sound that bad its just a rat. so you head to the location of the infestation.
+    when entering the owner tells that the rat is down the basement,you head down and see a large hole at the
+    other side of the room.</p>
+    <a href="nope">you nope out of there.</a>
+    <a href="slat-the-rat">you enter that hole.</a>
+</body>
+</html>

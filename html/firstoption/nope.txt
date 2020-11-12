@@ -1,0 +1,15 @@
+<html>
+<head>
+    <title>nope</title>
+</head>
+
+<body>
+    <h1>you nope out of there</h1>
+
+    <p>you know what maybe your not ready to deal to what is potentially a large rat. so you pack up your things
+        and walk to the other direction to never come back again.</p>
+    
+    <p>the end.</p> 
+    
+</body>
+</html>

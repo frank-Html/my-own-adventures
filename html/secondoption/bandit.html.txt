@@ -1,0 +1,21 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 3.2//EN">
+
+<html>
+<head>
+    <title>retreive a stolen jewler from a bandit.</title>
+</head>
+
+<body>
+    <h1>retreive a stolen jewlery from a bandit.</h1>
+
+    <p>you have some confidence that you can take the job. sure you only did basic fighting but that's enough, what could go wrong</p>
+
+    <p>it took you some time to find the camp but you manage to find it. you scouted the area and find where the jewlery is in a tent.</p>
+
+    <p>how do you get in?</p>
+    
+    <a href="use-a-disguise">use a disguise</a>
+    
+    <a href="sneak">stealth like a ninja</a>
+</body>
+</html>

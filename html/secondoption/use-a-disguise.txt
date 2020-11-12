@@ -1,0 +1,17 @@
+<html>
+<head>
+    <title>use a disguise</title>
+</head>
+
+<body>
+    <h1>use a disguise</h1>
+
+    <p> you find some clothing that could blend you in. while your walking to the tent a bandit invites
+    you to some drinks. you accept not wanting to be suspicious. what happens next is that you became good pals with the bandits and
+    decide to stick around. </p>
+    
+    <p>the end.</p>
+    
+   
+</body>
+</html>

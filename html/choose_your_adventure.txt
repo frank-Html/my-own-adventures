@@ -1,0 +1,15 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 3.2//EN">
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 3.2//EN">
+
+<html>
+<head>
+    <title>time for an Adventure!</title>
+</head>
+
+<body>
+    <h1>The beginning</h1>
+
+    <p>you are a new Adventurer, you have your basic equipment and ration and now your ready to take on the world there is a board that has plenty of quest which shall you start with?</p><a href="bandit.html">retreive a stolen jewler from a bandit.</a> <a href="">help kill a large rat in a basement.</a>
+</body>
+</html>

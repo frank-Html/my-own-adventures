@@ -1,0 +1,14 @@
+<html>
+<head>
+    <title>stealthy</title>
+</head>
+
+<body>
+    <h1>sneaking into camp</h1>
+
+    <p>you decide to quietly sneak into the camp. but unfortunetly you step on a branch and you were quickly
+    captured.</p>
+    
+    <p>the end.</p>
+</body>
+</html>
